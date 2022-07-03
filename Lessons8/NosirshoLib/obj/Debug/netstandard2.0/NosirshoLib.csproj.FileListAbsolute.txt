@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\Lessons\NosirshoLib\bin\Debug\netstandard2.0\NosirshoLib.deps.json
+C:\Users\User\source\repos\Lessons\NosirshoLib\bin\Debug\netstandard2.0\NosirshoLib.dll
+C:\Users\User\source\repos\Lessons\NosirshoLib\bin\Debug\netstandard2.0\NosirshoLib.pdb
+C:\Users\User\source\repos\Lessons\NosirshoLib\obj\Debug\netstandard2.0\NosirshoLib.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Lessons\NosirshoLib\obj\Debug\netstandard2.0\NosirshoLib.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lessons\NosirshoLib\obj\Debug\netstandard2.0\NosirshoLib.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Lessons\NosirshoLib\obj\Debug\netstandard2.0\NosirshoLib.AssemblyInfo.cs
+C:\Users\User\source\repos\Lessons\NosirshoLib\obj\Debug\netstandard2.0\NosirshoLib.dll
+C:\Users\User\source\repos\Lessons\NosirshoLib\obj\Debug\netstandard2.0\NosirshoLib.pdb
