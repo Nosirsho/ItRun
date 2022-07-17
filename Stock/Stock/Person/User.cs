@@ -1,9 +1,11 @@
-﻿using System;
+﻿using Stock.Interfaces;
+using Stock.Service.SenderService;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace Stock {
-	internal class User : Person{
+	internal class User : Person, IUserCrud, ISender {
 		public string Login { get; set; }
 		public string Password { get; set; }
 		public void Create(User user) {
@@ -53,6 +55,10 @@ namespace Stock {
 				}
 			}
 			Console.WriteLine("Неправильный логин или пароль!");
+		}
+		public void Send()
+		{
+			Console.WriteLine("Send to User");
 		}
 	}
 }

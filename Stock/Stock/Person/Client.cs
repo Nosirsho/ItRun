@@ -1,9 +1,11 @@
-﻿using System;
+﻿using Stock.Interfaces;
+using Stock.Service.SenderService;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace Stock {
-	internal class Client : Person{
+	internal class Client : Person, IClientCrud, ISender {
 		public int Balance { get; set; }
 		public void Create(Client client) {
 
@@ -45,6 +47,10 @@ namespace Stock {
 		}
 		public void SendSms(string phone, string text) {
 			Console.WriteLine(text);
+		}
+
+		public void Send() {
+			Console.WriteLine("Send to Client");
 		}
 	}
 }

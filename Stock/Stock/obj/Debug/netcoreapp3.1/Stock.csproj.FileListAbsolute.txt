@@ -12,3 +12,16 @@ C:\Users\N_Kholmamadov\Desktop\TEST\Stock\Stock\obj\Debug\netcoreapp3.1\Stock.cs
 C:\Users\N_Kholmamadov\Desktop\TEST\Stock\Stock\obj\Debug\netcoreapp3.1\Stock.dll
 C:\Users\N_Kholmamadov\Desktop\TEST\Stock\Stock\obj\Debug\netcoreapp3.1\Stock.pdb
 C:\Users\N_Kholmamadov\Desktop\TEST\Stock\Stock\obj\Debug\netcoreapp3.1\Stock.genruntimeconfig.cache
+C:\Users\User\source\repos\ITRUN\ItRun\Stock\Stock\bin\Debug\netcoreapp3.1\Stock.exe
+C:\Users\User\source\repos\ITRUN\ItRun\Stock\Stock\bin\Debug\netcoreapp3.1\Stock.deps.json
+C:\Users\User\source\repos\ITRUN\ItRun\Stock\Stock\bin\Debug\netcoreapp3.1\Stock.runtimeconfig.json
+C:\Users\User\source\repos\ITRUN\ItRun\Stock\Stock\bin\Debug\netcoreapp3.1\Stock.runtimeconfig.dev.json
+C:\Users\User\source\repos\ITRUN\ItRun\Stock\Stock\bin\Debug\netcoreapp3.1\Stock.dll
+C:\Users\User\source\repos\ITRUN\ItRun\Stock\Stock\bin\Debug\netcoreapp3.1\Stock.pdb
+C:\Users\User\source\repos\ITRUN\ItRun\Stock\Stock\obj\Debug\netcoreapp3.1\Stock.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ITRUN\ItRun\Stock\Stock\obj\Debug\netcoreapp3.1\Stock.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ITRUN\ItRun\Stock\Stock\obj\Debug\netcoreapp3.1\Stock.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ITRUN\ItRun\Stock\Stock\obj\Debug\netcoreapp3.1\Stock.AssemblyInfo.cs
+C:\Users\User\source\repos\ITRUN\ItRun\Stock\Stock\obj\Debug\netcoreapp3.1\Stock.dll
+C:\Users\User\source\repos\ITRUN\ItRun\Stock\Stock\obj\Debug\netcoreapp3.1\Stock.pdb
+C:\Users\User\source\repos\ITRUN\ItRun\Stock\Stock\obj\Debug\netcoreapp3.1\Stock.genruntimeconfig.cache

@@ -1,4 +1,5 @@
 ﻿using Stock.Products;
+using Stock.Service.SenderService;
 using System;
 using System.Collections.Generic;
 
@@ -87,7 +88,7 @@ namespace Stock {
 			}*/
 
 			//Product
-			ConsumerProduct consumerProduct1 = new ConsumerProduct { 
+/*			ConsumerProduct consumerProduct1 = new ConsumerProduct { 
 				Name = "RC",
 				Count = 100,
 				BarCode = "12454565121321",
@@ -117,7 +118,11 @@ namespace Stock {
 			BD.products.Add(industrialProduct2);
 			foreach (Product product in BD.products) {
 				product.getProductCont();
-			}
+			}*/
+			Message message = new Message();
+			message.SendMessage(new Client());
+			message.SendMessage(new Employee());
+			message.SendMessage(new User());
 		}
 	}
 }

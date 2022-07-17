@@ -1,9 +1,11 @@
-﻿using System;
+﻿using Stock.Interfaces;
+using Stock.Service.SenderService;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace Stock {
-	internal class Employee : Person{
+	internal class Employee : Person, IEmployeeCrud, ISender {
 		public int Salary { get; set; }
 		public void Create(Employee employee) {
 
@@ -50,6 +52,10 @@ namespace Stock {
 				Console.WriteLine("Employee Not Found");
 			}
 			return curEmployee.Salary;
+		}
+		public void Send()
+		{
+			Console.WriteLine("Send to Employee");
 		}
 	}
 }
